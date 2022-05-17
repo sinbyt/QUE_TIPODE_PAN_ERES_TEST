@@ -1,7 +1,7 @@
 ﻿
 namespace QUE_TIPODE_PAN_ERES_TEST
 {
-    //sexo
+    //doble sexo
 
     partial class Form1
     {
